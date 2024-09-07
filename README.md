@@ -4,8 +4,7 @@ AI generated Math Tests for Quick Practice
 ### 1. **Solving Systems of Linear Equations by Graphing**
 
 1. Solve the system by graphing:
-   $$
-   \begin{aligned}
+   $$\begin{aligned}
    2x + y &= 4 \\
    x - y &= 1
    \end{aligned}
@@ -607,3 +606,82 @@ Here are 40 high-difficulty problems covering the topics you requested. These pr
 10. Use the Remainder Theorem to find \( f(-4) \) for \( f(x) = 15x^7 - 8x^6 + 6x^4 - 9x^3 + 4x^2 - 7x + 11 \).
 
 ---
+
+Here are the updated problems using GitHub's supported math syntax:
+
+---
+
+### **Finding \( f(x) \) Using the Remainder Theorem**
+
+1. Given \( f(x) = 4x^5 - 3x^4 + 2x^3 - x^2 + 6x - 7 \), use the Remainder Theorem to find \( f(3) \).
+
+   ```markdown
+   $$ f(x) = 4x^5 - 3x^4 + 2x^3 - x^2 + 6x - 7 $$
+   Use the Remainder Theorem to find \( f(3) \).
+   ```
+
+2. If \( f(x) = 5x^6 - 2x^5 + x^4 - 3x^2 + 7x - 9 \), use the Remainder Theorem to find \( f(-2) \).
+
+   ```markdown
+   $$ f(x) = 5x^6 - 2x^5 + x^4 - 3x^2 + 7x - 9 $$
+   Use the Remainder Theorem to find \( f(-2) \).
+   ```
+
+3. Find the remainder when \( f(x) = 7x^4 - 4x^3 + 3x^2 - 6x + 8 \) is divided by \( x + 5 \) using the Remainder Theorem.
+
+   ```markdown
+   $$ f(x) = 7x^4 - 4x^3 + 3x^2 - 6x + 8 $$
+   Use the Remainder Theorem to find the remainder when divided by \( x + 5 \).
+   ```
+
+4. For the polynomial \( f(x) = 9x^5 - 5x^4 + 4x^3 - x^2 + 3x - 12 \), find \( f(2) \) using the Remainder Theorem.
+
+   ```markdown
+   $$ f(x) = 9x^5 - 5x^4 + 4x^3 - x^2 + 3x - 12 $$
+   Use the Remainder Theorem to find \( f(2) \).
+   ```
+
+5. Use the Remainder Theorem to find \( f(-3) \) for \( f(x) = 8x^6 + 3x^5 - 2x^4 + 4x^3 - x^2 + 7x + 5 \).
+
+   ```markdown
+   $$ f(x) = 8x^6 + 3x^5 - 2x^4 + 4x^3 - x^2 + 7x + 5 $$
+   Use the Remainder Theorem to find \( f(-3) \).
+   ```
+
+6. Given \( f(x) = 6x^4 - x^3 + 2x^2 - 7x + 10 \), find \( f(4) \) using the Remainder Theorem.
+
+   ```markdown
+   $$ f(x) = 6x^4 - x^3 + 2x^2 - 7x + 10 $$
+   Use the Remainder Theorem to find \( f(4) \).
+   ```
+
+7. Find the remainder when \( f(x) = 10x^6 - 3x^5 + 8x^4 - 5x^2 + 9x - 15 \) is divided by \( x - 1 \), using the Remainder Theorem.
+
+   ```markdown
+   $$ f(x) = 10x^6 - 3x^5 + 8x^4 - 5x^2 + 9x - 15 $$
+   Use the Remainder Theorem to find the remainder when divided by \( x - 1 \).
+   ```
+
+8. If \( f(x) = 11x^5 + 6x^4 - 4x^3 + x^2 - 8x + 12 \), use the Remainder Theorem to find \( f(-5) \).
+
+   ```markdown
+   $$ f(x) = 11x^5 + 6x^4 - 4x^3 + x^2 - 8x + 12 $$
+   Use the Remainder Theorem to find \( f(-5) \).
+   ```
+
+9. For \( f(x) = 13x^6 - 7x^5 + 5x^4 - 6x^2 + 2x - 14 \), find \( f(3) \) using the Remainder Theorem.
+
+   ```markdown
+   $$ f(x) = 13x^6 - 7x^5 + 5x^4 - 6x^2 + 2x - 14 $$
+   Use the Remainder Theorem to find \( f(3) \).
+   ```
+
+10. Use the Remainder Theorem to find \( f(-4) \) for \( f(x) = 15x^7 - 8x^6 + 6x^4 - 9x^3 + 4x^2 - 7x + 11 \).
+
+   ```markdown
+   $$ f(x) = 15x^7 - 8x^6 + 6x^4 - 9x^3 + 4x^2 - 7x + 11 $$
+   Use the Remainder Theorem to find \( f(-4) \).
+   ```
+
+---
+
